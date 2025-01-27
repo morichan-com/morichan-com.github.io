@@ -14,6 +14,11 @@
       "shortcode": "daiseikou", 
       "imageURL": "https://morichan-com.github.io/emoji/getterlove/daiseikou.png", 
       "aliases": ["ゲッターラブ!!", "天海きいろ"] 
+    },
+    { 
+      "shortcode": "seikou", 
+      "imageURL": "https://morichan-com.github.io/emoji/getterlove/seikou.png", 
+      "aliases": ["ゲッターラブ!!", "天海きいろ"] 
     }
   ]
 }
