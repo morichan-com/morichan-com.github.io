@@ -1,0 +1,15 @@
+{
+  "name": "ゲッターラブ!!絵文字パック", 
+  "version": "1.0.0", 
+  "description": "ゲブキャラ絵文字です", 
+  "credit": "2025 morichan.com", 
+  "iconURL": "https://morichan-com.github.io/emoji/getterlove/kiiro.jpg", 
+  "emojis": [
+    { 
+      "shortcode": "kiiro", 
+      "imageURL": "https://morichan-com.github.io/emoji/getterlove/kiiro.jpg", 
+      "aliases": ["ゲッターラブ!!", "天海きいろ"] 
+    }
+  
+  ]
+}
