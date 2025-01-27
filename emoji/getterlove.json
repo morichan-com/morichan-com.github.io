@@ -9,7 +9,11 @@
       "shortcode": "kiiro", 
       "imageURL": "https://morichan-com.github.io/emoji/getterlove/kiiro.jpg", 
       "aliases": ["ゲッターラブ!!", "天海きいろ"] 
+    },
+    { 
+      "shortcode": "daiseikou", 
+      "imageURL": "https://morichan-com.github.io/emoji/getterlove/daiseikou.png", 
+      "aliases": ["ゲッターラブ!!", "天海きいろ"] 
     }
-  
   ]
 }
