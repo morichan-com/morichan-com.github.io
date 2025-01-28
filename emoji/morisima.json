@@ -1,0 +1,19 @@
+{
+  "name": "森嶋絵文字パック", 
+  "version": "1.0.0", 
+  "description": "森嶋セレクション", 
+  "credit": "2025 morichan.com", 
+  "iconURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.png", 
+  "emojis": [
+    { 
+      "shortcode": "ablobcheer", 
+      "imageURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.png", 
+      "aliases": [""] 
+    },
+     { 
+      "shortcode": "doom", 
+      "imageURL": "https://morichan-com.github.io/emoji/morisima/doom.png", 
+      "aliases": ["プロレス", "斉藤ブラザーズ"] 
+    }
+  ]
+}
