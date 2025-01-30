@@ -80,11 +80,11 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/bow-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "bow-nya2", 
+      "shortcode": "bownya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/bow-nya2.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "buriburiburiburi-muchaburinya", 
+      "shortcode": "buriburiburiburimuchaburinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/buriburiburiburi-muchaburi-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -108,7 +108,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/chira-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "choo-choo-trainnya", 
+      "shortcode": "choochootrainnya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/choo-choo-train-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -128,7 +128,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/densha-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "docchidemo-iinya", 
+      "shortcode": "docchidemoiinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/docchidemo-ii-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -156,7 +156,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/drum-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "eiei-onya", 
+      "shortcode": "eieionya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/eiei-o-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -176,7 +176,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/gohan-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "gohan-taberunya", 
+      "shortcode": "gohantaberunya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/gohan-taberu-nya.png", 
       "aliases": [""] 
     },   { 
@@ -224,7 +224,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/hituji-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "hiza-ni-ya-wo-ukete-simattenya", 
+      "shortcode": "hizaniyawouketesimattenya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/hiza-ni-ya-wo-ukete-simatte-nya.png", 
       "aliases": [""] 
     },   { 
@@ -232,11 +232,11 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/hokkori-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "holiday-nya2", 
+      "shortcode": "holidaynya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/holiday-nya2.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "holiday-nya3", 
+      "shortcode": "holidaynya3", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/holiday-nya3.png", 
       "aliases": [""] 
     },   { 
@@ -276,19 +276,19 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/isogu-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "issue-mada-nainya", 
+      "shortcode": "issuemadanainya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/issue-mada-nai-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "itsumo-sumanainya", 
+      "shortcode": "itsumosumanainya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/itsumo-sumanai-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "ittari-kitarinya", 
+      "shortcode": "ittarikitarinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ittari-kitari-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "jii-nya2", 
+      "shortcode": "jiinya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/jii-nya2.gif", 
       "aliases": [""] 
     },   { 
@@ -340,15 +340,15 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/karai-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kata-korunya", 
+      "shortcode": "katakorunya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kata-koru-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kaze-tuyoinya", 
+      "shortcode": "kazetuyoinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kaze-tuyoi-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kenkou-shindannya", 
+      "shortcode": "kenkoushindannya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kenkou-shindan-nya.png", 
       "aliases": [""] 
     },   { 
@@ -372,7 +372,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kitai-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kitakitakitakita-kitakitsunenya", 
+      "shortcode": "kitakitakitakitakitakitsunenya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kitakitakitakita-kitakitsune-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -432,11 +432,11 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kyomu-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kyomu-nya2", 
+      "shortcode": "kyomunya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kyomu-nya2.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "kyun-desunya", 
+      "shortcode": "kyundesunya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/kyun-desu-nya.png", 
       "aliases": [""] 
     },   { 
@@ -500,7 +500,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/memo-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "merry-chri-nya2", 
+      "shortcode": "merrychrinya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/merry-chri-nya2.png", 
       "aliases": [""] 
     },   { 
@@ -520,7 +520,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/momo-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "mou-dounidemo-narenya", 
+      "shortcode": "moudounidemonarenya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/mou-dounidemo-nare-nya.png", 
       "aliases": [""] 
     },   { 
@@ -556,7 +556,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/naki-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "namae-ha-mada-nainya", 
+      "shortcode": "namaehamadanainya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/namae-ha-mada-nai-nya.png", 
       "aliases": [""] 
     },   { 
@@ -612,7 +612,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/niyari-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "nobita-ashinya", 
+      "shortcode": "nobitaashinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/nobita-ashi-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -620,7 +620,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/nobita-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "nobita-tubonya", 
+      "shortcode": "nobitatubonya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/nobita-tubo-nya.png", 
       "aliases": [""] 
     },   { 
@@ -632,7 +632,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/oblate-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "oblate-nya2", 
+      "shortcode": "oblatenya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/oblate-nya2.png", 
       "aliases": [""] 
     },   { 
@@ -652,7 +652,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ok-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "ok-nya2", 
+      "shortcode": "oknya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ok-nya2.gif", 
       "aliases": [""] 
     },   { 
@@ -664,7 +664,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/okusuri-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "onaka-suitanya", 
+      "shortcode": "onakasuitanya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/onaka-suita-nya.png", 
       "aliases": [""] 
     },   { 
@@ -688,7 +688,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ouen-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "ouen-nya2", 
+      "shortcode": "ouennya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ouen-nya2.png", 
       "aliases": [""] 
     },   { 
@@ -724,7 +724,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/pray-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "puka-pukanya", 
+      "shortcode": "pukapukanya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/puka-puka-nya.png", 
       "aliases": [""] 
     },   { 
@@ -752,7 +752,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/ringo-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "rubber-ducknya", 
+      "shortcode": "rubberducknya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/rubber-duck-nya.png", 
       "aliases": [""] 
     },   { 
@@ -772,7 +772,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/scream-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "seiza-taikinya", 
+      "shortcode": "seizataikinya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/seiza-taiki-nya.png", 
       "aliases": [""] 
     },   { 
@@ -820,7 +820,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/stretch-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "subeteno-cookie-wo-ukeirerunya", 
+      "shortcode": "subetenocookiewoukeirerunya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/subeteno-cookie-wo-ukeireru-nya.png", 
       "aliases": [""] 
     },   { 
@@ -876,7 +876,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/teruteru-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "test-mada-nainya", 
+      "shortcode": "testmadanainya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/test-mada-nai-nya.png", 
       "aliases": [""] 
     },   { 
@@ -900,7 +900,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/togetoge-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "toratoratoratora-troublenya", 
+      "shortcode": "toratoratoratoratroublenya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/toratoratoratora-trouble-nya.gif", 
       "aliases": [""] 
     },   { 
@@ -912,11 +912,11 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/travel-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "trick-or-treatnya", 
+      "shortcode": "trickortreatnya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/trick-or-treat-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "trick-or-treat-nya2", 
+      "shortcode": "trickortreatnya2", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/trick-or-treat-nya2.png", 
       "aliases": [""] 
     },   { 
@@ -932,7 +932,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/tuntun-nya.gif", 
       "aliases": [""] 
     },   { 
-      "shortcode": "uchu-nekonya", 
+      "shortcode": "uchunekonya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/uchu-neko-nya.png", 
       "aliases": [""] 
     },   { 
@@ -1016,7 +1016,7 @@
       "imageURL": "https://morichan-com.github.io/emoji/necochan/youkoso-nya.png", 
       "aliases": [""] 
     },   { 
-      "shortcode": "yutai-ridatsunya", 
+      "shortcode": "yutairidatsunya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/yutai-ridatsu-nya.png", 
       "aliases": [""] 
     },   { 
