@@ -3,11 +3,11 @@
   "version": "1.0.0", 
   "description": "森嶋セレクション", 
   "credit": "2025 morichan.com", 
-  "iconURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.png", 
+  "iconURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.gif", 
   "emojis": [
     { 
       "shortcode": "ablobcheer", 
-      "imageURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.png", 
+      "imageURL": "https://morichan-com.github.io/emoji/morisima/ablobcheer.gif", 
       "aliases": [""] 
     },
      { 
