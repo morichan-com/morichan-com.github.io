@@ -6,6 +6,16 @@
   "iconURL": "https://morichan-com.github.io/emoji/necochan/amefoot-nya.png", 
   "emojis": [
     { 
+      "shortcode": "yoshinya", 
+      "imageURL": "https://morichan-com.github.io/emoji/necochan/yoshinya.png", 
+      "aliases": [""] 
+    },
+     { 
+      "shortcode": "yoshi-nya", 
+      "imageURL": "https://morichan-com.github.io/emoji/necochan/yoshinya.png", 
+      "aliases": [""] 
+    }, 
+     { 
       "shortcode": "akeome-nya", 
       "imageURL": "https://morichan-com.github.io/emoji/necochan/akeome-nya.gif", 
       "aliases": [""] 
